@@ -6,29 +6,29 @@
 1. dislpay:flex 要放在外容器才有效果
 
   - 決定軸線：flex-direction (互動詢問)
-  a.row (預設)
-  b.row-reverse
-  c.column
-  d.column-reverse
+    a.row (預設)
+    b.row-reverse
+    c.column
+    d.column-reverse
   
   - 主軸對齊：justify-content (開始代入範例)
-  a.flex-start (預設)
-  b.center
-  c.flex-end
-  d.space-between
-  e.space-around
-  f.space-evenly
+    a.flex-start (預設)
+    b.center
+    c.flex-end
+    d.space-between
+    e.space-around
+    f.space-evenly
   
   - 換行屬性：flex-wrap
-  a.nowrap(預設)
-  b.wrap
+    a.nowrap(預設)
+    b.wrap
   
   - 交錯軸單行對齊：align-item
-  a.flex-start
-  b.center
-  c.flex-end
-  d.stretch(預設)
-  e.baseline
+    a.flex-start
+    b.center
+    c.flex-end
+    d.stretch(預設)
+    e.baseline
 
   - 交錯軸多行對齊屬性：align-content
 
