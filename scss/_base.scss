@@ -65,6 +65,7 @@ img{
 /* a連結 文字樣式移除 */
 a{
 	text-decoration: none;
+	display: block;
 	&:hover{
 		opacity: 0.7;
 	}
