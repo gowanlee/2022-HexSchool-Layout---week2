@@ -3,7 +3,7 @@
 
 本週學習重點：
 
-1. dislpay:flex 要放在外容器才有效果
+1. dislpay:flex 要放在上一層才有效果
 
   - 決定軸線：flex-direction (互動詢問)
     - row (預設)
