@@ -1,0 +1,39 @@
+.header{
+    background-image: url(../images/banner.png) ;
+    background-repeat: no-repeat;
+	background-position: center 0;
+    background-size: cover;
+    height: 100vh;
+    color: #FFFFFF;
+
+    h1{
+        font-size: 80px;
+        line-height: 106px;
+        font-weight: 900;
+    }
+}
+.about-content{
+    width: 384px;
+    margin: 0 auto;
+}
+.my-brand{
+    padding-top: 56px;
+    padding-bottom: 160px;
+
+    .my-brand-pic{
+        flex-wrap: wrap;
+        gap: 40px 24px;
+    }
+}
+.work-pic{
+    flex-wrap: wrap;
+    gap: 48px 24px;
+}
+.footer{
+    padding: 64px 0;
+
+    a{
+        color: #FFFFFF;
+        display: block;
+    }
+}
