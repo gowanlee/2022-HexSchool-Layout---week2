@@ -6,10 +6,10 @@
 1. dislpay:flex 要放在外容器才有效果
 
   - 決定軸線：flex-direction (互動詢問)
-    a.row (預設)
-    b.row-reverse
-    c.column
-    d.column-reverse
+    - row (預設)
+    - row-reverse
+    - column
+    - column-reverse
   
   - 主軸對齊：justify-content (開始代入範例)
     a.flex-start (預設)
