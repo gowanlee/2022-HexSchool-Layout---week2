@@ -12,23 +12,23 @@
     - column-reverse
   
   - 主軸對齊：justify-content (開始代入範例)
-    a.flex-start (預設)
-    b.center
-    c.flex-end
-    d.space-between
-    e.space-around
-    f.space-evenly
+    - flex-start (預設)
+    - center
+    - flex-end
+    - space-between
+    - space-around
+    - space-evenly
   
   - 換行屬性：flex-wrap
-    a.nowrap(預設)
-    b.wrap
+    - nowrap(預設)
+    - wrap
   
   - 交錯軸單行對齊：align-item
-    a.flex-start
-    b.center
-    c.flex-end
-    d.stretch(預設)
-    e.baseline
+    - flex-start
+    - center
+    - flex-end
+    - stretch(預設)
+    - baseline
 
   - 交錯軸多行對齊屬性：align-content
 
