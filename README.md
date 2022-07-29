@@ -46,11 +46,12 @@
   - overflow: hidden;
   - white-space: nowrap;
   
-<b>4. 利用偽元素在ul>li畫出圓點/b>
+<b>4. 利用偽元素在ul>li畫出圓點</b>
 <img width="444" alt="截圖 2022-07-28 下午9 45 47" src="https://user-images.githubusercontent.com/106324011/181520865-d103b64e-fb78-4531-8575-0131e74380e1.png">
 
 
 ---------------------------------------------------
+
 
 下方提供關於作業細節的建議：
 
@@ -70,4 +71,4 @@
 
 4.「About」、「Contact」也不需要再設置 container，且不需要 section 中的 flex 排版，皆可改用 text-align: center 即可。
 
-5. 「Other Works」區塊的作品名稱可以改為 h3 標籤，善用標題標籤設置重點內容，能有效提升 SEO。
+5.「Other Works」區塊的作品名稱可以改為 h3 標籤，善用標題標籤設置重點內容，能有效提升 SEO。
