@@ -46,24 +46,8 @@
   - overflow: hidden;
   - white-space: nowrap;
   
-<b>4. 利用偽元素在ul>li畫出圓點</b>
+<b>4. 利用偽元素在ul>li畫出圓點</b><br>
 <img width="444" alt="截圖 2022-07-28 下午9 45 47" src="https://user-images.githubusercontent.com/106324011/181520865-d103b64e-fb78-4531-8575-0131e74380e1.png">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ---------------------------------------------------
