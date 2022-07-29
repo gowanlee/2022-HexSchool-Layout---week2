@@ -55,7 +55,7 @@
 
 下方提供關於作業細節的建議：
 
-1. scss 檔案拆分的部分，_layout.scss 中這<a href="https://github.com/gowanlee/2022-HexSchool-Layout---week2/blob/e79be05f5c067743ae6414de1a34bbd7967de243/scss/_layout.scss#L18-L95">部分</a>（18-95行）可以拉出來命名為 _variables.scss，且符合 layout 會是每一頁都會有的樣式（例如：header、footer）因此建議這邊的樣式可以合併回去 _main.scss。（可以參考這篇<a href="https://ithelp.ithome.com.tw/articles/10275111">文章</a>）
+1. scss 檔案拆分的部分，_layout.scss 中這<a target="_blank" href="https://github.com/gowanlee/2022-HexSchool-Layout---week2/blob/e79be05f5c067743ae6414de1a34bbd7967de243/scss/_layout.scss#L18-L95">部分</a>（18-95行）可以拉出來命名為 _variables.scss，且符合 layout 會是每一頁都會有的樣式（例如：header、footer）因此建議這邊的樣式可以合併回去 _main.scss。（可以參考這篇<a target="blank" href="https://ithelp.ithome.com.tw/articles/10275111">文章</a>）
 
 2. scss 可以善用 & 連接符號來減少巢狀階層層數。
 
