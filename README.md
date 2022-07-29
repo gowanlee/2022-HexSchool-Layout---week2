@@ -59,13 +59,13 @@
 
 2. scss 可以善用 & 連接符號來減少巢狀階層層數。
 
-.my-brand{
+<!-- .my-brand{
   ＆-pic {}
-}
+} -->
 
-// 編譯後
+<!-- // 編譯後
 .my-brand{}
-.my-brand-pic{}
+.my-brand-pic{} -->
 
 3. .header 有使用 flex 排版就不需要再設置 container 了。
 
