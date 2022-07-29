@@ -69,6 +69,6 @@
 
 3. .header 有使用 flex 排版就不需要再設置 container 了。
 
-4.「About」、「Contact」也不需要再設置 container，且不需要 section 中的 flex 排版，皆可改用 text-align: center 即可。
+  4.「About」、「Contact」也不需要再設置 container，且不需要 section 中的 flex 排版，皆可改用 text-align: center 即可。
 
-5.「Other Works」區塊的作品名稱可以改為 h3 標籤，善用標題標籤設置重點內容，能有效提升 SEO。
+  5.「Other Works」區塊的作品名稱可以改為 h3 標籤，善用標題標籤設置重點內容，能有效提升 SEO。
